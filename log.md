@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: December 30, 2016 
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Foundations of Programming Course (lynda.com) Chapter 6 (Iteration) and Chapter 7 (More about Strings)
+                      Freecodecamp 4 Exercises in Basic Javascript
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** I really like the Lynda class I'm taking. The teacher is clear and helpful. Freecodecamp's exercises were tough today - they weren't as aligned with what I've been learning on lynda as they have been and so I feel like I'm multitasking a bit. I struggled with the "Counting Cards" exercise because I legit didn't realize that I could put two return statements in the same function. I thought the program would end and that would be that. D'oh!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** [Counting Cards](https://www.freecodecamp.com/challenges/counting-cards)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+
