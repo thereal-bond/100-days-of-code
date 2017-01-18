@@ -124,6 +124,6 @@ AND I finished the Foundations of Programming Course on Lynda. I think before I 
 
 **Today's Progress**: Random Quotes Generator
 
-**Thoughts:** Still working on quote machine. I used a template from w3schools for the CSS and it looks much better. I would like to tweak the look of the button some more. I also still need to add the twitter button option. Those are the must-dos. Nice-to-dos would be to change the quotes from text to images, and change the background color with a nice fade whenever the quote changes. Also somehow to tweak the algorithm so the same quote can't be chosen twice. Not right now but someday would be to tweak the whole back end so that instead of drawing from an array it's drawing from an API.
+**Thoughts:** Still working on quote machine. I used a template from w3schools for the CSS and it looks much better. I would like to tweak the look of the button some more. I also still need to add the twitter button option. Those are the must-dos. Nice-to-dos would be to change the quotes from text to images, and change the background color with a nice fade whenever the quote changes. Also somehow to tweak the algorithm so the same quote can't be chosen twice. Not right now but someday would be to tweak the whole back end so that instead of drawing from an array it's drawing from an API. Edited to add: Relevant article - maybe I should make my OWN API! https://medium.com/@humadvii/lv-1-dev-revisiting-old-projects-bc74578f909b#.cx8rplvx1
 
 **Link to work:* http://codepen.io/therealbond/pen/mRrBmM
